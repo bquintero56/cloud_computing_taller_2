@@ -51,7 +51,8 @@ terraform destroy
 ```
 
 📁 Estructura del Proyecto
-plaintext
+
+````markdown
 Copiar
 Editar
 .
@@ -62,4 +63,5 @@ Editar
 │   ├── storage/            # Cuenta y contenedor de almacenamiento
 │   ├── monitoring/         # Diagnósticos y alertas
 │   └── public_ip/          # Ip para las VM
-    
+
+```
